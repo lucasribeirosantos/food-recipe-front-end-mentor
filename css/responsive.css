@@ -1,0 +1,60 @@
+@media (max-width:425px) {
+    .container {
+        margin: 0;
+        border-radius: 0;
+        padding: 0;
+    }
+
+    .container img {
+        border-radius: 0    ;
+    }
+
+    .container .main-info {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
+    .container .main-info .main-title {
+        font-size: 36px;
+    }
+
+    .container .main-info img {
+        width: 320px;
+        border-radius: 0;
+    }
+
+    .container .prep-time {
+        margin: 0px 30px;
+    }
+
+    .container .ingredients  {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
+    .container .ingredients ul li {
+        padding-left: 15px;
+        text-indent: -16px;
+    }
+
+    .container .line {
+       width: 83%;
+       margin-left: 30px;
+    }
+
+    .container .instructions {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
+    .container .instructions ol li {
+        padding-left: 20px;
+        text-indent: -16px;
+    }
+
+    .container .nutrition {
+        padding-left: 30px;
+        padding-right: 30px;
+        padding-bottom: 30px;
+    }
+}
