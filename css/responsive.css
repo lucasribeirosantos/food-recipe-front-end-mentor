@@ -55,6 +55,12 @@
     .container .nutrition {
         padding-left: 30px;
         padding-right: 30px;
+        padding-bottom: 15px;
+    }
+
+    .container .attribution {
+        padding-left: 30px;
+        padding-right: 30px;
         padding-bottom: 30px;
     }
 }
