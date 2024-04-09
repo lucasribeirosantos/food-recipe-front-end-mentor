@@ -13,7 +13,7 @@ body {
     background-color: hsl(0, 0%, 100%);
     max-width: 700px;
     padding: 40px;
-    margin: 40px;
+    margin: 100px 40px;
     border-radius: 18px;
 }
 
@@ -178,6 +178,24 @@ body {
     font-size: 16px;
     margin-left: 30px;
     font-weight: 700;
+}
+
+.main .attribution {
+    margin-top: 30px;
+    text-align: center;
+    font-family: "Outfit", sans-serif;
+    color: hsl(30, 10%, 34%);
+}
+
+.main .attribution a {
+    text-decoration: none;
+    color: hsl(14, 45%, 36%);
+    font-weight: 600;
+}
+
+.main .attribution a:hover {
+    transition: 0.3s ease-in-out;
+    color: hsl(14, 41%, 56%);
 }
 
 
